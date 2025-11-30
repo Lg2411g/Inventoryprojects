@@ -1,0 +1,114 @@
+==============================
+   INVENTORY MANAGEMENT SYSTEM
+==============================
+
+1. Add Item
+2. Display All Items
+3. Search Item
+4. Update Item
+5. Delete Item
+6. Exit
+
+Enter your choice: 1
+
+Enter Item ID: 101
+Enter Item Name: Rice Bag
+Enter Quantity: 20
+Enter Price: 450
+Item added successfully!
+
+
+==============================
+   INVENTORY MANAGEMENT SYSTEM
+==============================
+
+1. Add Item
+2. Display All Items
+3. Search Item
+4. Update Item
+5. Delete Item
+6. Exit
+
+Enter your choice: 1
+
+Enter Item ID: 102
+Enter Item Name: Sugar
+Enter Quantity: 10
+Enter Price: 55
+Item added successfully!
+
+
+==============================
+        ALL INVENTORY ITEMS
+==============================
+
+ID      Name         Quantity    Price
+-----------------------------------------
+101     Rice Bag     20          450.00
+102     Sugar        10          55.00
+-----------------------------------------
+
+(2 items found)
+
+Press any key to continue...
+
+
+==============================
+   INVENTORY MANAGEMENT SYSTEM
+==============================
+
+Enter your choice: 3
+Enter Item ID to search: 101
+
+Item Found:
+------------------------
+ID          : 101
+Name        : Rice Bag
+Quantity    : 20
+Price       : 450.00
+------------------------
+
+
+==============================
+   INVENTORY MANAGEMENT SYSTEM
+==============================
+
+Enter your choice: 4
+Enter Item ID to update: 102
+
+Enter new Quantity: 15
+Enter new Price: 60
+Item updated successfully!
+
+
+==============================
+   INVENTORY MANAGEMENT SYSTEM
+==============================
+
+Enter your choice: 5
+Enter Item ID to delete: 101
+
+Item deleted successfully!
+
+
+==============================
+        ALL INVENTORY ITEMS
+==============================
+
+ID      Name         Quantity    Price
+-----------------------------------------
+102     Sugar        15          60.00
+-----------------------------------------
+
+(1 item found)
+
+Press any key to continue...
+
+
+==============================
+   INVENTORY MANAGEMENT SYSTEM
+==============================
+
+Enter your choice: 6
+Exiting the program...
+Thank you for using the Inventory System!
